@@ -1,2 +1,2 @@
 # Projects
-This section discuss about my projects done during my college. ## Thats all cheers!!!!
+This section describes about my projects done during my college. ## Thats all cheers!!!!
